@@ -1,7 +1,7 @@
 # calculator.py
 
 def add(x, y):
-    return x + y 
+    return x + y + y
 
 def subtract(x, y):
     return x - y
